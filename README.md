@@ -1,2 +1,5 @@
-# Bilateral_Communication_Service_server
+# Bilateral Communication Service - BCS
+
+This is an IRC-styled communication protocol.
+JFF :)
  
